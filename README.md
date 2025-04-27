@@ -1,8 +1,14 @@
 
 
-# Product Manager
+# Vivek Nalla
 
 I'm a **Product Manager** with a decade of experience building and scaling SaaS, B2B, B2G, B2C, ML, Gen AI, Data, and UX products. I thrive at the intersection of technology, design, and business-turning ideas into impactful solutions. My journey is defined by curiosity, adaptability, and a passion for delivering value through innovation.
+
+📫 How to reach me:
+
+- Email: vivek.nalla.mail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/viveknalla1/
+
 
 ## 🚀 Experience Highlights
 
